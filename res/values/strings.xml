@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name">Tracker Habit</string>
+        <string name="habit_name">Привычка</string>
+        <string name="habit_description">Описание привычки</string>
+        <string name="add_habit_button">Добавить привычку</string>
+        <string name="save_habit_button">Сохранить привычку</string>
+</resources>
+
